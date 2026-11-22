@@ -1,0 +1,8 @@
+# Credenciais do Adafruit IO (use secrets.example.h como modelo)
+secrets.h
+
+# Arquivos de build / editores
+build/
+.vscode/
+*.bin
+*.elf
